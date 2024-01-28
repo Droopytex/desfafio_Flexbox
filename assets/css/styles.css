@@ -57,6 +57,7 @@
 h1 {
   font-size: 4em;
 }
+
 .logo {
   display: flex;
   align-items: center;
@@ -64,8 +65,8 @@ h1 {
 }
 
 .logo-img {
-  display: flex;
-  width: 300px;
+  max-width: 300px;
+  max-height: 294px;
 }
 
 .cont-item {
