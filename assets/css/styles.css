@@ -64,6 +64,7 @@ h1 {
 }
 
 .logo-img {
+  display: flex;
   width: 300px;
 }
 
